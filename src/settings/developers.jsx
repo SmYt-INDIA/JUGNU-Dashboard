@@ -1,7 +1,7 @@
 export const developers = [
   {
-    name: `Kabir`,
+    name: `SmYt_IND`,
     skills: `Full Stack Developer`,
-    tag: `𝐊𝐚𝐛𝐢𝐫#5254`,
+    tag: `SmYt_IND#0001`,
   },
 ];
