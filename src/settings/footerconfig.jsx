@@ -3,19 +3,19 @@ import { FaDiscord } from "react-icons/fa";
 
 const FooterSocials = [
   {
-    link: "https:www.youtube.com/techboy2",
+    link: "https:www.youtube.com/@SmYt_IND",
     icon: <AiFillYoutube />,
   },
   {
-    link: "https:www.instagram.com/kabirjaipal_2004",
+    link: "https:www.instagram.com/smyt_ind",
     icon: <AiFillInstagram />,
   },
   {
-    link: "https://www.linkedin.com/in/kabir-jaipal-a1427223a/",
+    link: "https://www.linkedin.com/in/",
     icon: <AiFillLinkedin />,
   },
   {
-    link: "https://discord.gg/PcUVWApWN3",
+    link: "https://discord.gg/mpr4U6kR5A",
     icon: <FaDiscord />,
   },
 ];
