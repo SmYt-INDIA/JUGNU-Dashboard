@@ -13,7 +13,7 @@ const Footer = () => {
         ))}
       </div>
       <div className="middle">
-        <h3>Coded By Kabir With 💖</h3>
+        <h3>Coded By SmYt_IND With 💖</h3>
       </div>
       <div className="right">
         {FooterLinks.map((item, index) => (
