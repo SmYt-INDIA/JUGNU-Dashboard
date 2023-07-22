@@ -63,7 +63,7 @@ const Navbar = () => {
   const MobileNavbar = () => (
     <div className="navbar hidden_mobile">
       <a href="/" className="hover_line nav_title">
-        Jugnu Music
+       Axer
       </a>
       <div
         className="nav_links"
