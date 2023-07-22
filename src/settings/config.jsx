@@ -1,3 +1,3 @@
 export default {
-  baseurl: `https:/axer.smytindyoutube.repl.co`,
+  baseurl: `https:/axermusic.smytindyoutube.repl.co`,
 };
