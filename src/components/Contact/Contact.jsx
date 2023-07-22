@@ -58,7 +58,7 @@ const Contact = () => {
               },
             ],
             footer: {
-              text: `Coded By Kabir Singh`,
+              text: `Coded by SmYt_IND`,
               icon_url: "",
             },
           },
